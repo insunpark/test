@@ -1,0 +1,6 @@
+C:\cprog\cp2530\이것이 C#이다\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\cprog\cp2530\이것이 C#이다\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\cprog\cp2530\이것이 C#이다\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\cprog\cp2530\이것이 C#이다\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\cprog\cp2530\이것이 C#이다\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\cprog\cp2530\이것이 C#이다\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
